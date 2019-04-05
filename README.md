@@ -9,5 +9,5 @@ First, install pipenv. Then:
 
 ```shell
 pipenv install
-pipenv run "python meteorites_nearby.py"
+pipenv run "python meteors/meteorites_nearby.py"
 ```
